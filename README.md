@@ -13,4 +13,8 @@ Website - <a href="(https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)"
 <h2>Power BI Dashboard</h2>
 
 Dashboard will look like
+
+
+
+
 <img src="Dashboard.png" height="600">
