@@ -3,7 +3,7 @@
 The goal of this project is to perform data analytics on Uber data using Python Pandas and Power BI.
 <h2>Datasets Used</h2>
 Uber Fares Dataset records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.<br>
-Dataset used in this project: <a href="https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-04.parquet">Yellow Taxi Trip Records-April 2023</a>
+Dataset used in this project: <a href="https://www.kaggle.com/datasets/yasserh/uber-fares-dataset">Uber Fares Dataset</a>
 <br><br>
 More info about dataset can be found here:
 
