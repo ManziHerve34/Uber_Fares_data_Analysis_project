@@ -11,7 +11,6 @@ Website - <a href="(https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)"
 <h2>Data Model</h2>
 <img src="Data-Model.png" width = "500" height="400">
 <h2>Power BI Dashboard</h2>
-Dashboard will be available in below link,<br>
-<a href="https://www.novypro.com/project/uber-trip-analysis">Uber-Analysis-Dashboard</a><br><br>
+
 Dashboard will look like
 <img src="Dashboard.png" height="600">
