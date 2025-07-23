@@ -16,6 +16,12 @@ together with mapping cardinalities:
 <img src="Data-Model.png" width = "500" height="400">
 <h2>Power BI Dashboard</h2>
 
+This interactive Power BI dashboard provides a comprehensive analysis of Uber ride data, focusing on trip volume, revenue, distance, and passenger trends across New York City. Built on a star schema data model,
+the report enables users to explore key metrics like trip count, total revenue, average distance, and passenger count.
+
+Users can filter insights by payment type, vendor, and rate code, while interactive visuals such as the zonal map, weekly trends, and hourly ride distribution reveal valuable operational patterns to support
+data-driven decisions.
+
 Dashboard will look like
 
 
