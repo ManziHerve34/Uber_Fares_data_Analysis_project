@@ -10,7 +10,8 @@ More info about dataset can be found here:
 Website - <a href="(https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)">https://www.kaggle.com/datasets/yasserh/uber-fares-dataset</a><br>
 <h2>Data Model</h2>
 
-The Entity Relationship Diagram (ERD) shown in your image represents a star schema data model for analyzing Uber fare data. Here's a brief overview of the relationships among the entities:
+The Entity Relationship Diagram (ERD) shown on the screenshot below represents a star schema data model for analyzing Uber fare data. Here's a brief overview of the relationships among the entities:
+
 <img src="Data-Model.png" width = "500" height="400">
 <h2>Power BI Dashboard</h2>
 
