@@ -24,6 +24,8 @@ data-driven decisions.
 
 Dashboard will look like
 
+[PowerBI report](https://drive.google.com/drive/folders/1bHPIsOfgUIfV5Bjv1k1T0PV3xxicm2ZQ)
+
 
 
 
